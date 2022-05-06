@@ -1,0 +1,22 @@
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\bin\Debug\Aydeniz Dinlenme Tesisi.exe.config
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\bin\Debug\Aydeniz Dinlenme Tesisi.exe
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\bin\Debug\Aydeniz Dinlenme Tesisi.pdb
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz Dinlenme Tesisi.csprojAssemblyReference.cache
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.Properties.Resources.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz Dinlenme Tesisi.csproj.GenerateResource.cache
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz Dinlenme Tesisi.csproj.CoreCompileInputs.cache
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz Dinlenme Tesisi.exe
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz Dinlenme Tesisi.pdb
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmYeniMusteri.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmOdalar.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmMusteriler.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmGelirGider.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmSifreGuncelle.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmPersonelEkle.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmPersoneller.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmPersonelGiris.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmGiris.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmYoneticiAnaSayfa.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmPersonelAnaSayfa.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmYoneticiGiris.resources
+C:\Users\AYDENİZ\Source\Repos\Aydeniz Dinlenme Tesisi\Aydeniz Dinlenme Tesisi\obj\Debug\Aydeniz_Dinlenme_Tesisi.FrmStoklarveFaturalar.resources
